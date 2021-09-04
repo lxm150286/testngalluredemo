@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestDemo
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 1.066 s <<< FAILURE! - in TestDemo
+f1(TestDemo)  Time elapsed: 0.014 s  <<< FAILURE!
+java.lang.AssertionError
+	at TestDemo.f1(TestDemo.java:10)
+
