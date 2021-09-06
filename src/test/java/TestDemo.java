@@ -7,7 +7,7 @@ public class TestDemo {
     }
     @Test
     public void f1(){
-        assert "45"=="";
+        assert "45"=="45";
     }
     @Test
     public void f2(){
